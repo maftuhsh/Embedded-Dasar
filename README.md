@@ -38,3 +38,8 @@ Kalau kamu punya ide, perbaikan, atau tambahan modul, feel free untuk kontribusi
 Kode di sini dibuat untuk tujuan pembelajaran, jadi mungkin belum sepenuhnya optimal atau production-ready.
 
 ## ROADMAP REPOSITORY
+### Modul 1
+link : https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-1
+
+Note: Baca Deskripsi dulu 
+link https://github.com/maftuhsh/Embedded-Dasar/blob/main/Modul-1/MODUL_01_LED_7SEG.md 
