@@ -1,6 +1,11 @@
 # 📘 Modul 1 - Pemrograman LED Traffic Light & 7-Segment Counter
 ## 🧾 Deskripsi
 
+## Link Simulasi
+- LED https://www.tinkercad.com/things/dntSLZ8Wb3g-trafficlight-green-yellow-red-yellow-green-
+- Seven Segment https://www.tinkercad.com/things/1ZIYfzlidKS-seven-segment-common-anode
+
+
 Modul ini membahas dasar pemrograman mikrokontroler dengan dua studi kasus utama:
 
 Simulasi lampu lalu lintas (traffic light) menggunakan LED
