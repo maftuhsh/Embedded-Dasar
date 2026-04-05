@@ -29,5 +29,7 @@ Breadboard & Kabel Jumper
 
 Link Simulasi
 Percobaan 1 : https://app.cirkitdesigner.com/project/ed641656-a549-492b-95c5-f89af740db63
+
 Percobaan 2 : https://app.cirkitdesigner.com/project/eef188f3-4834-4a7a-b96c-168128d78021
+
 Percobaan 3 : https://app.cirkitdesigner.com/project/8ff2e2ad-eee1-42b5-9a9d-f88754064292
