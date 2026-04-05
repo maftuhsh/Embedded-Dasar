@@ -22,7 +22,7 @@ Penjelasan singkat
 Clone repositori ini
 Pilih modul yang ingin dipelajari
 Baca penjelasan singkatnya
-Jalankan kode dan coba modifikasi sendiri\
+Jalankan kode dan coba modifikasi sendiri
 
 ## 💡 Tips Belajar
 Jangan cuma copy-paste, pahami alurnya
