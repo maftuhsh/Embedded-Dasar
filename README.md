@@ -39,9 +39,13 @@ Kode di sini dibuat untuk tujuan pembelajaran, jadi mungkin belum sepenuhnya opt
 
 ## ROADMAP REPOSITORY
 ### Modul 1
-Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/blob/main/Modul-1/README_Modul_02.md
-Program = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-1
+Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-1
 
 ### Modul 2
-Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/blob/main/Modul-2/README_Modul_02.md
-Modul = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-2
+Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-2
+
+### Modul 4
+Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-4
+
+### Modul 2
+Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-5
