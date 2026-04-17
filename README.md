@@ -44,8 +44,13 @@ Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-1
 ### Modul 2
 Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-2
 
+### Modul 3
+Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-3
+
 ### Modul 4
 Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-4
 
-### Modul 2
+### Modul 5
 Deskripsi = https://github.com/maftuhsh/Embedded-Dasar/tree/main/Modul-5
+
+
