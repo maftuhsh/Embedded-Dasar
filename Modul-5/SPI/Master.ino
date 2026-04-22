@@ -1,4 +1,4 @@
-// Nana 
+// NAMA
 // NIM
 /* program Master */
 #include <SPI.h>
