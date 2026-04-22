@@ -1,3 +1,5 @@
+// Nana 
+// NIM
 /* program Master */
 #include <SPI.h>
 #define SS 10 //Select Slave
