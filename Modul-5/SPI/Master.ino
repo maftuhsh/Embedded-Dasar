@@ -11,7 +11,7 @@ void setup (void) {
   pinMode(SS, OUTPUT);
   digitalWrite(SS, HIGH);
   SPI.setClockDivider(SPI_CLOCK_DIV4); //mengatur clock SPI dari 1/4 frekuensi sistem (frekuensi sistem 16MHz).
-  Serial.println("welcome to module 4");
+  Serial.println("welcome to module 5");
   Serial.println("device Master");
 }
 
