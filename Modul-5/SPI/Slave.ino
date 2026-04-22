@@ -19,7 +19,7 @@ void setup (void) {
   pinMode(MISO, OUTPUT); //output untk mengirim data dari slave to master
   SPCR |= 0b0000001 << 6; //SPI activated
   SPI.attachInterrupt(); //interrupt activated
-  Serial.println("welcome to module 4");
+  Serial.println("welcome to module 5");
   Serial.println("device SLave");
 }
 ISR (SPI_STC_vect) //(Interrupt Service Routine) dipanggil ketika ada interrupt dari SPI
