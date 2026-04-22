@@ -1,3 +1,5 @@
+// NAMA
+// NIM
 /*program Slave*/
 #include <SPI.h>
 
